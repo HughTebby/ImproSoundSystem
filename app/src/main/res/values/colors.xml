@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="default_selected">#ADE4FF</color>
+    <color name="app_color">#940094</color>
+    <color name="charcoal">#636363</color>
+    <color name="playing">#81F79F</color>
+    <color name="played">#dddddd</color>
+    <color name="white">#ffffff</color>
+</resources>

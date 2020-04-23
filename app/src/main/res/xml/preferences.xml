@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="utf-8"?>
+<PreferenceScreen xmlns:android="http://schemas.android.com/apk/res/android">
+    <CheckBoxPreference
+        android:key="multiple_play"
+        android:title="Multiple Sounds"
+        android:summary="Allows multiple sounds to play at the same time"
+        android:defaultValue="true" />
+    <CheckBoxPreference
+        android:key="keep_screen_on"
+        android:title="Keep screen on"
+        android:summary="Stops the screen from turning off when using the app"
+        android:defaultValue="true" />
+    <CheckBoxPreference
+        android:key="show_duration"
+        android:title="Display sound duration"
+        android:summary="Displays the duration of the audio file next to the file name."
+        android:defaultValue="false" />
+    <CheckBoxPreference
+        android:key="show_volume_default"
+        android:title="Show volume control by default"
+        android:summary="Shows the volume control sliders button by default."
+        android:defaultValue="false" />
+    <Preference
+        android:key="storage_dir"
+        android:title="Storage directory"
+        android:summary="Select an alternate location for the sound files (by default on internal storage in directory /sdcard/ImproSoundSystem)" />
+    <ListPreference
+        android:key="button_size"
+        android:title="Button size"
+        android:dialogTitle="Button size"
+        android:summary="Changes the size of the sound buttons. Refresh manually after changing value."
+        android:entries="@array/button_size_entries"
+        android:entryValues="@array/button_size_values"
+        android:defaultValue="1" />
+    <EditTextPreference
+        android:key="max_tabs"
+        android:title="Max number of tabs"
+        android:summary="Maximum number of tabs that are displayed."
+        android:numeric="integer"
+        android:maxLength="2"
+        android:defaultValue="10" />
+    <EditTextPreference
+        android:key="max_sounds"
+        android:title="Max number of sounds per tab"
+        android:summary="Maximum number of sounds that are displayed in each tab. High numbers can cause slowdowns or crashes on some devices."
+        android:numeric="integer"
+        android:maxLength="3"
+        android:defaultValue="100" />
+</PreferenceScreen>

@@ -1,0 +1,111 @@
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:orientation="vertical"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".MainActivity" >
+
+    <TabHost
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:id="@+id/tabHost">
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:orientation="vertical">
+
+            <TabWidget
+                android:id="@android:id/tabs"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                style="@android:style/Widget.TabWidget"></TabWidget>
+
+            <ScrollView
+                android:layout_width="wrap_content"
+                android:layout_height="match_parent"
+                android:id="@+id/scrollView"
+                android:fillViewport="true"
+                android:paddingTop="10dp"
+                android:paddingLeft="20dp"
+                android:paddingRight="20dp"
+                android:paddingBottom="40dp">
+
+                <FrameLayout
+                    android:id="@android:id/tabcontent"
+                    android:layout_width="match_parent"
+                    android:layout_height="match_parent">
+
+                    <GridView
+                        android:layout_width="match_parent"
+                        android:layout_height="match_parent"
+                        android:id="@+id/sound_grid"
+                        android:verticalSpacing="10dp"
+                        android:horizontalSpacing="10dp"
+                        android:columnWidth="90dp"
+                        android:numColumns="auto_fit"
+                        android:stretchMode="columnWidth"
+                        android:layout_alignParentLeft="true"
+                        android:layout_marginLeft="0dp"
+                        android:layout_alignParentTop="true"
+                        android:layout_marginTop="0dp" />
+
+                </FrameLayout>
+            </ScrollView>
+
+        </LinearLayout>
+    </TabHost>
+
+    <SlidingDrawer android:id="@+id/drawer"
+        android:layout_width="fill_parent"
+        android:layout_height="fill_parent"
+        android:handle="@+id/handle"
+        android:content="@+id/scrollViewHistory">
+
+        <RelativeLayout
+            android:layout_width="fill_parent"
+            android:layout_height="wrap_content"
+            android:id="@+id/handle">
+            <ImageView android:src="@drawable/ic_action_history"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_alignParentRight="true" />
+        </RelativeLayout>
+
+        <ScrollView
+            android:layout_width="wrap_content"
+            android:layout_height="match_parent"
+            android:id="@+id/scrollViewHistory"
+            android:fillViewport="true"
+            android:background="@color/charcoal"
+            android:padding="20dp">
+
+            <FrameLayout
+                android:gravity="top"
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:background="@color/charcoal"
+                android:id="@+id/drawer_content"
+                android:orientation="vertical">
+
+             <!--   <Button
+                    android:id="@+id/clear_history"
+                    android:layout_width="120dp"
+                    android:layout_height="30dp"
+                    android:layout_weight="0"
+                    android:paddingLeft="8dp"
+                    android:paddingRight="8dp"
+                    android:textColor="@color/white"
+                    android:background="@color/app_color"
+                    android:singleLine="true"
+                    android:textSize="12dp"
+                    android:textStyle="bold"
+                    android:text="Clear history"
+                    android:onClick="clearHistory"/> -->
+            </FrameLayout>
+        </ScrollView>
+
+    </SlidingDrawer>
+
+
+</RelativeLayout>

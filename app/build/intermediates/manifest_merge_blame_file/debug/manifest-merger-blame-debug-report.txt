@@ -1,0 +1,106 @@
+1<?xml version="1.0" encoding="utf-8"?>
+2<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+3    package="com.hughtebby.improsoundsystem"
+4    android:versionCode="29"
+5    android:versionName="1.81" >
+6
+7    <uses-sdk
+8        android:minSdkVersion="14"
+8-->/home/hugh/Compil/AndroidStudioProjects/improSoundSystem/app/src/main/AndroidManifest.xml
+9        android:targetSdkVersion="28" />
+9-->/home/hugh/Compil/AndroidStudioProjects/improSoundSystem/app/src/main/AndroidManifest.xml
+10
+11    <uses-permission android:name="android.permission.WRITE_EXTERNAL_STORAGE" />
+11-->/home/hugh/Compil/AndroidStudioProjects/improSoundSystem/app/src/main/AndroidManifest.xml:7:5-81
+11-->/home/hugh/Compil/AndroidStudioProjects/improSoundSystem/app/src/main/AndroidManifest.xml:7:22-78
+12
+13    <application
+13-->/home/hugh/Compil/AndroidStudioProjects/improSoundSystem/app/src/main/AndroidManifest.xml:9:5-41:19
+14        android:name="com.hughtebby.improsoundsystem.GlobalClass"
+14-->/home/hugh/Compil/AndroidStudioProjects/improSoundSystem/app/src/main/AndroidManifest.xml:10:9-66
+15        android:allowBackup="true"
+15-->/home/hugh/Compil/AndroidStudioProjects/improSoundSystem/app/src/main/AndroidManifest.xml:11:9-35
+16        android:debuggable="true"
+17        android:icon="@drawable/ic_launcher"
+17-->/home/hugh/Compil/AndroidStudioProjects/improSoundSystem/app/src/main/AndroidManifest.xml:12:9-45
+18        android:label="@string/app_name"
+18-->/home/hugh/Compil/AndroidStudioProjects/improSoundSystem/app/src/main/AndroidManifest.xml:13:9-41
+19        android:largeHeap="true"
+19-->/home/hugh/Compil/AndroidStudioProjects/improSoundSystem/app/src/main/AndroidManifest.xml:15:9-33
+20        android:testOnly="true"
+21        android:theme="@style/AppTheme" >
+21-->/home/hugh/Compil/AndroidStudioProjects/improSoundSystem/app/src/main/AndroidManifest.xml:14:9-40
+22        <activity
+22-->/home/hugh/Compil/AndroidStudioProjects/improSoundSystem/app/src/main/AndroidManifest.xml:16:9-25:20
+23            android:name="com.hughtebby.improsoundsystem.MainActivity"
+23-->/home/hugh/Compil/AndroidStudioProjects/improSoundSystem/app/src/main/AndroidManifest.xml:17:13-71
+24            android:label="@string/app_name"
+24-->/home/hugh/Compil/AndroidStudioProjects/improSoundSystem/app/src/main/AndroidManifest.xml:18:13-45
+25            android:screenOrientation="landscape" >
+25-->/home/hugh/Compil/AndroidStudioProjects/improSoundSystem/app/src/main/AndroidManifest.xml:19:13-50
+26            <intent-filter>
+26-->/home/hugh/Compil/AndroidStudioProjects/improSoundSystem/app/src/main/AndroidManifest.xml:20:13-24:29
+27                <action android:name="android.intent.action.MAIN" />
+27-->/home/hugh/Compil/AndroidStudioProjects/improSoundSystem/app/src/main/AndroidManifest.xml:21:17-69
+27-->/home/hugh/Compil/AndroidStudioProjects/improSoundSystem/app/src/main/AndroidManifest.xml:21:25-66
+28
+29                <category android:name="android.intent.category.LAUNCHER" />
+29-->/home/hugh/Compil/AndroidStudioProjects/improSoundSystem/app/src/main/AndroidManifest.xml:23:17-77
+29-->/home/hugh/Compil/AndroidStudioProjects/improSoundSystem/app/src/main/AndroidManifest.xml:23:27-74
+30            </intent-filter>
+31        </activity>
+32        <activity android:name="com.hughtebby.improsoundsystem.SettingsActivity" />
+32-->/home/hugh/Compil/AndroidStudioProjects/improSoundSystem/app/src/main/AndroidManifest.xml:26:9-84
+32-->/home/hugh/Compil/AndroidStudioProjects/improSoundSystem/app/src/main/AndroidManifest.xml:26:19-81
+33        <!-- This is necessary for file browser -->
+34        <activity
+34-->/home/hugh/Compil/AndroidStudioProjects/improSoundSystem/app/src/main/AndroidManifest.xml:28:9-32:20
+35            android:name="com.hughtebby.improsoundsystem.FileBrowserActivity"
+35-->/home/hugh/Compil/AndroidStudioProjects/improSoundSystem/app/src/main/AndroidManifest.xml:28:19-84
+36            android:configChanges="orientation|keyboardHidden"
+36-->/home/hugh/Compil/AndroidStudioProjects/improSoundSystem/app/src/main/AndroidManifest.xml:28:114-164
+37            android:label="File browser" >
+37-->/home/hugh/Compil/AndroidStudioProjects/improSoundSystem/app/src/main/AndroidManifest.xml:28:85-113
+38            <intent-filter>
+38-->/home/hugh/Compil/AndroidStudioProjects/improSoundSystem/app/src/main/AndroidManifest.xml:29:13-31:29
+39                <action android:name="com.hughtebby.improsoundsystem.SELECT_DIRECTORY_ACTION" />
+39-->/home/hugh/Compil/AndroidStudioProjects/improSoundSystem/app/src/main/AndroidManifest.xml:30:17-96
+39-->/home/hugh/Compil/AndroidStudioProjects/improSoundSystem/app/src/main/AndroidManifest.xml:30:25-94
+40            </intent-filter>
+41        </activity>
+42        <!-- End of file browser necessity -->
+43
+44
+45        <!--
+46             ATTENTION: This was auto-generated to add Google Play services to your project for
+47             App Indexing.  See https://g.co/AppIndexing/AndroidStudio for more information.
+48        -->
+49        <meta-data
+49-->/home/hugh/Compil/AndroidStudioProjects/improSoundSystem/app/src/main/AndroidManifest.xml:37:9-39:69
+50            android:name="com.google.android.gms.version"
+50-->/home/hugh/Compil/AndroidStudioProjects/improSoundSystem/app/src/main/AndroidManifest.xml:38:13-58
+51            android:value="@integer/google_play_services_version" />
+51-->/home/hugh/Compil/AndroidStudioProjects/improSoundSystem/app/src/main/AndroidManifest.xml:39:13-66
+52
+53        <activity
+53-->[com.google.android.gms:play-services-base:9.8.0] /home/hugh/.gradle/caches/transforms-2/files-2.1/547445c782ab54e6765a554f4fdfde6f/play-services-base-9.8.0/AndroidManifest.xml:19:9-172
+54            android:name="com.google.android.gms.common.api.GoogleApiActivity"
+54-->[com.google.android.gms:play-services-base:9.8.0] /home/hugh/.gradle/caches/transforms-2/files-2.1/547445c782ab54e6765a554f4fdfde6f/play-services-base-9.8.0/AndroidManifest.xml:19:19-85
+55            android:exported="false"
+55-->[com.google.android.gms:play-services-base:9.8.0] /home/hugh/.gradle/caches/transforms-2/files-2.1/547445c782ab54e6765a554f4fdfde6f/play-services-base-9.8.0/AndroidManifest.xml:19:146-170
+56            android:theme="@android:style/Theme.Translucent.NoTitleBar" />
+56-->[com.google.android.gms:play-services-base:9.8.0] /home/hugh/.gradle/caches/transforms-2/files-2.1/547445c782ab54e6765a554f4fdfde6f/play-services-base-9.8.0/AndroidManifest.xml:19:86-145
+57
+58        <provider
+58-->[com.google.firebase:firebase-common:9.8.0] /home/hugh/.gradle/caches/transforms-2/files-2.1/7a0914d17f54d499272efde2eb1ee4e4/firebase-common-9.8.0/AndroidManifest.xml:6:9-175
+59            android:name="com.google.firebase.provider.FirebaseInitProvider"
+59-->[com.google.firebase:firebase-common:9.8.0] /home/hugh/.gradle/caches/transforms-2/files-2.1/7a0914d17f54d499272efde2eb1ee4e4/firebase-common-9.8.0/AndroidManifest.xml:6:79-124
+60            android:authorities="com.hughtebby.improsoundsystem.firebaseinitprovider"
+60-->[com.google.firebase:firebase-common:9.8.0] /home/hugh/.gradle/caches/transforms-2/files-2.1/7a0914d17f54d499272efde2eb1ee4e4/firebase-common-9.8.0/AndroidManifest.xml:6:19-78
+61            android:exported="false"
+61-->[com.google.firebase:firebase-common:9.8.0] /home/hugh/.gradle/caches/transforms-2/files-2.1/7a0914d17f54d499272efde2eb1ee4e4/firebase-common-9.8.0/AndroidManifest.xml:6:125-149
+62            android:initOrder="100" />
+62-->[com.google.firebase:firebase-common:9.8.0] /home/hugh/.gradle/caches/transforms-2/files-2.1/7a0914d17f54d499272efde2eb1ee4e4/firebase-common-9.8.0/AndroidManifest.xml:6:150-173
+63    </application>
+64
+65</manifest>

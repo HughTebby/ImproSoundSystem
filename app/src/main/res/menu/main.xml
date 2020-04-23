@@ -1,0 +1,26 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android" >
+
+    <item
+        android:id="@+id/action_show_volume"
+        android:showAsAction="always"
+        android:icon="@drawable/ic_action_show_volume"
+        android:title="Show volume sliders" />
+
+    <item
+        android:id="@+id/action_refresh"
+        android:showAsAction="always"
+        android:icon="@drawable/ic_menu_refresh"
+        android:title="Refresh sounds" />
+
+    <item
+        android:id="@+id/action_stop"
+        android:showAsAction="always"
+        android:icon="@drawable/ic_action_stop"
+        android:title="@string/action_stop" />
+
+    <!-- Settings, should always be in the overflow -->
+    <item android:id="@+id/action_settings"
+        android:title="@string/action_settings"
+        android:showAsAction="never"/>
+
+</menu>

@@ -1,0 +1,27 @@
+apply plugin: 'com.android.application'
+android {
+    compileSdkVersion 28
+    buildToolsVersion '21.1.2'
+
+    defaultConfig {
+        applicationId "com.hughtebby.improsoundsystem"
+        minSdkVersion 14
+        targetSdkVersion 28
+    }
+
+    buildTypes {
+        release {
+            minifyEnabled false // new version
+
+            proguardFiles getDefaultProguardFile('proguard-android.txt'), 'proguard-rules.pro'
+        }
+    }
+
+}
+
+
+dependencies {
+    compile 'com.google.android.gms:play-services-appindexing:9.8.0'
+    compile files('/home/hugh/Compil/AndroidStudioProjects/improSoundSystem/libs/commons-io-2.4.jar')
+
+}

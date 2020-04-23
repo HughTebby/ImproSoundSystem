@@ -1,0 +1,410 @@
+[
+    {
+        "merged": "/home/hugh/Compil/AndroidStudioProjects/improSoundSystem/app/build/intermediates/res/merged/debug/drawable-xhdpi-v4_common_google_signin_btn_text_dark_disabled.9.png.flat",
+        "source": "/home/hugh/.gradle/caches/transforms-2/files-2.1/547445c782ab54e6765a554f4fdfde6f/play-services-base-9.8.0/res/drawable-xhdpi-v4/common_google_signin_btn_text_dark_disabled.9.png"
+    },
+    {
+        "merged": "/home/hugh/Compil/AndroidStudioProjects/improSoundSystem/app/build/intermediates/res/merged/debug/xml_preferences.xml.flat",
+        "source": "/home/hugh/Compil/AndroidStudioProjects/improSoundSystem/app/src/main/res/xml/preferences.xml"
+    },
+    {
+        "merged": "/home/hugh/Compil/AndroidStudioProjects/improSoundSystem/app/build/intermediates/res/merged/debug/drawable-mdpi-v4_common_google_signin_btn_icon_dark_normal.9.png.flat",
+        "source": "/home/hugh/.gradle/caches/transforms-2/files-2.1/547445c782ab54e6765a554f4fdfde6f/play-services-base-9.8.0/res/drawable-mdpi-v4/common_google_signin_btn_icon_dark_normal.9.png"
+    },
+    {
+        "merged": "/home/hugh/Compil/AndroidStudioProjects/improSoundSystem/app/build/intermediates/res/merged/debug/drawable_common_google_signin_btn_icon_light_focused.xml.flat",
+        "source": "/home/hugh/.gradle/caches/transforms-2/files-2.1/547445c782ab54e6765a554f4fdfde6f/play-services-base-9.8.0/res/drawable/common_google_signin_btn_icon_light_focused.xml"
+    },
+    {
+        "merged": "/home/hugh/Compil/AndroidStudioProjects/improSoundSystem/app/build/intermediates/res/merged/debug/drawable-hdpi_ic_menu_refresh.png.flat",
+        "source": "/home/hugh/Compil/AndroidStudioProjects/improSoundSystem/app/build/generated/res/pngs/debug/drawable-hdpi/ic_menu_refresh.png"
+    },
+    {
+        "merged": "/home/hugh/Compil/AndroidStudioProjects/improSoundSystem/app/build/intermediates/res/merged/debug/drawable-mdpi-v4_common_google_signin_btn_text_light_disabled.9.png.flat",
+        "source": "/home/hugh/.gradle/caches/transforms-2/files-2.1/547445c782ab54e6765a554f4fdfde6f/play-services-base-9.8.0/res/drawable-mdpi-v4/common_google_signin_btn_text_light_disabled.9.png"
+    },
+    {
+        "merged": "/home/hugh/Compil/AndroidStudioProjects/improSoundSystem/app/build/intermediates/res/merged/debug/drawable-xxhdpi-v4_common_google_signin_btn_icon_dark_pressed.9.png.flat",
+        "source": "/home/hugh/.gradle/caches/transforms-2/files-2.1/547445c782ab54e6765a554f4fdfde6f/play-services-base-9.8.0/res/drawable-xxhdpi-v4/common_google_signin_btn_icon_dark_pressed.9.png"
+    },
+    {
+        "merged": "/home/hugh/Compil/AndroidStudioProjects/improSoundSystem/app/build/intermediates/res/merged/debug/drawable_common_google_signin_btn_icon_light.xml.flat",
+        "source": "/home/hugh/.gradle/caches/transforms-2/files-2.1/547445c782ab54e6765a554f4fdfde6f/play-services-base-9.8.0/res/drawable/common_google_signin_btn_icon_light.xml"
+    },
+    {
+        "merged": "/home/hugh/Compil/AndroidStudioProjects/improSoundSystem/app/build/intermediates/res/merged/debug/drawable-xxhdpi-v4_common_google_signin_btn_icon_light_disabled.9.png.flat",
+        "source": "/home/hugh/.gradle/caches/transforms-2/files-2.1/547445c782ab54e6765a554f4fdfde6f/play-services-base-9.8.0/res/drawable-xxhdpi-v4/common_google_signin_btn_icon_light_disabled.9.png"
+    },
+    {
+        "merged": "/home/hugh/Compil/AndroidStudioProjects/improSoundSystem/app/build/intermediates/res/merged/debug/drawable-mdpi-v4_common_google_signin_btn_text_light_pressed.9.png.flat",
+        "source": "/home/hugh/.gradle/caches/transforms-2/files-2.1/547445c782ab54e6765a554f4fdfde6f/play-services-base-9.8.0/res/drawable-mdpi-v4/common_google_signin_btn_text_light_pressed.9.png"
+    },
+    {
+        "merged": "/home/hugh/Compil/AndroidStudioProjects/improSoundSystem/app/build/intermediates/res/merged/debug/drawable-xhdpi_ic_launcher.png.flat",
+        "source": "/home/hugh/Compil/AndroidStudioProjects/improSoundSystem/app/src/main/res/drawable-xhdpi/ic_launcher.png"
+    },
+    {
+        "merged": "/home/hugh/Compil/AndroidStudioProjects/improSoundSystem/app/build/intermediates/res/merged/debug/drawable-hdpi_ic_action_show_volume.png.flat",
+        "source": "/home/hugh/Compil/AndroidStudioProjects/improSoundSystem/app/src/main/res/drawable-hdpi/ic_action_show_volume.png"
+    },
+    {
+        "merged": "/home/hugh/Compil/AndroidStudioProjects/improSoundSystem/app/build/intermediates/res/merged/debug/drawable_common_google_signin_btn_icon_dark_focused.xml.flat",
+        "source": "/home/hugh/.gradle/caches/transforms-2/files-2.1/547445c782ab54e6765a554f4fdfde6f/play-services-base-9.8.0/res/drawable/common_google_signin_btn_icon_dark_focused.xml"
+    },
+    {
+        "merged": "/home/hugh/Compil/AndroidStudioProjects/improSoundSystem/app/build/intermediates/res/merged/debug/drawable_loop_background.xml.flat",
+        "source": "/home/hugh/Compil/AndroidStudioProjects/improSoundSystem/app/src/main/res/drawable/loop_background.xml"
+    },
+    {
+        "merged": "/home/hugh/Compil/AndroidStudioProjects/improSoundSystem/app/build/intermediates/res/merged/debug/drawable-xxhdpi-v4_common_google_signin_btn_icon_dark_normal.9.png.flat",
+        "source": "/home/hugh/.gradle/caches/transforms-2/files-2.1/547445c782ab54e6765a554f4fdfde6f/play-services-base-9.8.0/res/drawable-xxhdpi-v4/common_google_signin_btn_icon_dark_normal.9.png"
+    },
+    {
+        "merged": "/home/hugh/Compil/AndroidStudioProjects/improSoundSystem/app/build/intermediates/res/merged/debug/drawable-xhdpi_ic_action_history.png.flat",
+        "source": "/home/hugh/Compil/AndroidStudioProjects/improSoundSystem/app/src/main/res/drawable-xhdpi/ic_action_history.png"
+    },
+    {
+        "merged": "/home/hugh/Compil/AndroidStudioProjects/improSoundSystem/app/build/intermediates/res/merged/debug/drawable-xxhdpi-v4_common_google_signin_btn_text_light_normal.9.png.flat",
+        "source": "/home/hugh/.gradle/caches/transforms-2/files-2.1/547445c782ab54e6765a554f4fdfde6f/play-services-base-9.8.0/res/drawable-xxhdpi-v4/common_google_signin_btn_text_light_normal.9.png"
+    },
+    {
+        "merged": "/home/hugh/Compil/AndroidStudioProjects/improSoundSystem/app/build/intermediates/res/merged/debug/drawable-hdpi-v4_common_google_signin_btn_icon_light_normal.9.png.flat",
+        "source": "/home/hugh/.gradle/caches/transforms-2/files-2.1/547445c782ab54e6765a554f4fdfde6f/play-services-base-9.8.0/res/drawable-hdpi-v4/common_google_signin_btn_icon_light_normal.9.png"
+    },
+    {
+        "merged": "/home/hugh/Compil/AndroidStudioProjects/improSoundSystem/app/build/intermediates/res/merged/debug/drawable-xhdpi-v4_common_google_signin_btn_icon_light_pressed.9.png.flat",
+        "source": "/home/hugh/.gradle/caches/transforms-2/files-2.1/547445c782ab54e6765a554f4fdfde6f/play-services-base-9.8.0/res/drawable-xhdpi-v4/common_google_signin_btn_icon_light_pressed.9.png"
+    },
+    {
+        "merged": "/home/hugh/Compil/AndroidStudioProjects/improSoundSystem/app/build/intermediates/res/merged/debug/drawable-mdpi-v4_common_google_signin_btn_text_dark_disabled.9.png.flat",
+        "source": "/home/hugh/.gradle/caches/transforms-2/files-2.1/547445c782ab54e6765a554f4fdfde6f/play-services-base-9.8.0/res/drawable-mdpi-v4/common_google_signin_btn_text_dark_disabled.9.png"
+    },
+    {
+        "merged": "/home/hugh/Compil/AndroidStudioProjects/improSoundSystem/app/build/intermediates/res/merged/debug/drawable-hdpi-v4_common_google_signin_btn_icon_dark_normal.9.png.flat",
+        "source": "/home/hugh/.gradle/caches/transforms-2/files-2.1/547445c782ab54e6765a554f4fdfde6f/play-services-base-9.8.0/res/drawable-hdpi-v4/common_google_signin_btn_icon_dark_normal.9.png"
+    },
+    {
+        "merged": "/home/hugh/Compil/AndroidStudioProjects/improSoundSystem/app/build/intermediates/res/merged/debug/drawable-xhdpi-v4_common_google_signin_btn_text_light_disabled.9.png.flat",
+        "source": "/home/hugh/.gradle/caches/transforms-2/files-2.1/547445c782ab54e6765a554f4fdfde6f/play-services-base-9.8.0/res/drawable-xhdpi-v4/common_google_signin_btn_text_light_disabled.9.png"
+    },
+    {
+        "merged": "/home/hugh/Compil/AndroidStudioProjects/improSoundSystem/app/build/intermediates/res/merged/debug/drawable-xhdpi_ic_action_stop.png.flat",
+        "source": "/home/hugh/Compil/AndroidStudioProjects/improSoundSystem/app/src/main/res/drawable-xhdpi/ic_action_stop.png"
+    },
+    {
+        "merged": "/home/hugh/Compil/AndroidStudioProjects/improSoundSystem/app/build/intermediates/res/merged/debug/drawable-ldpi_file_icon.png.flat",
+        "source": "/home/hugh/Compil/AndroidStudioProjects/improSoundSystem/app/src/main/res/drawable-ldpi/file_icon.png"
+    },
+    {
+        "merged": "/home/hugh/Compil/AndroidStudioProjects/improSoundSystem/app/build/intermediates/res/merged/debug/drawable-ldpi_ic_menu_refresh.png.flat",
+        "source": "/home/hugh/Compil/AndroidStudioProjects/improSoundSystem/app/build/generated/res/pngs/debug/drawable-ldpi/ic_menu_refresh.png"
+    },
+    {
+        "merged": "/home/hugh/Compil/AndroidStudioProjects/improSoundSystem/app/build/intermediates/res/merged/debug/drawable-xxhdpi-v4_common_google_signin_btn_text_light_pressed.9.png.flat",
+        "source": "/home/hugh/.gradle/caches/transforms-2/files-2.1/547445c782ab54e6765a554f4fdfde6f/play-services-base-9.8.0/res/drawable-xxhdpi-v4/common_google_signin_btn_text_light_pressed.9.png"
+    },
+    {
+        "merged": "/home/hugh/Compil/AndroidStudioProjects/improSoundSystem/app/build/intermediates/res/merged/debug/drawable-xhdpi-v4_common_google_signin_btn_text_light_pressed.9.png.flat",
+        "source": "/home/hugh/.gradle/caches/transforms-2/files-2.1/547445c782ab54e6765a554f4fdfde6f/play-services-base-9.8.0/res/drawable-xhdpi-v4/common_google_signin_btn_text_light_pressed.9.png"
+    },
+    {
+        "merged": "/home/hugh/Compil/AndroidStudioProjects/improSoundSystem/app/build/intermediates/res/merged/debug/drawable-xhdpi-v4_common_google_signin_btn_text_light_normal.9.png.flat",
+        "source": "/home/hugh/.gradle/caches/transforms-2/files-2.1/547445c782ab54e6765a554f4fdfde6f/play-services-base-9.8.0/res/drawable-xhdpi-v4/common_google_signin_btn_text_light_normal.9.png"
+    },
+    {
+        "merged": "/home/hugh/Compil/AndroidStudioProjects/improSoundSystem/app/build/intermediates/res/merged/debug/drawable_common_google_signin_btn_text_dark_focused.xml.flat",
+        "source": "/home/hugh/.gradle/caches/transforms-2/files-2.1/547445c782ab54e6765a554f4fdfde6f/play-services-base-9.8.0/res/drawable/common_google_signin_btn_text_dark_focused.xml"
+    },
+    {
+        "merged": "/home/hugh/Compil/AndroidStudioProjects/improSoundSystem/app/build/intermediates/res/merged/debug/drawable-xxhdpi-v4_common_google_signin_btn_text_dark_normal.9.png.flat",
+        "source": "/home/hugh/.gradle/caches/transforms-2/files-2.1/547445c782ab54e6765a554f4fdfde6f/play-services-base-9.8.0/res/drawable-xxhdpi-v4/common_google_signin_btn_text_dark_normal.9.png"
+    },
+    {
+        "merged": "/home/hugh/Compil/AndroidStudioProjects/improSoundSystem/app/build/intermediates/res/merged/debug/drawable-mdpi-v4_common_google_signin_btn_text_dark_normal.9.png.flat",
+        "source": "/home/hugh/.gradle/caches/transforms-2/files-2.1/547445c782ab54e6765a554f4fdfde6f/play-services-base-9.8.0/res/drawable-mdpi-v4/common_google_signin_btn_text_dark_normal.9.png"
+    },
+    {
+        "merged": "/home/hugh/Compil/AndroidStudioProjects/improSoundSystem/app/build/intermediates/res/merged/debug/drawable-xxhdpi-v4_common_google_signin_btn_text_dark_pressed.9.png.flat",
+        "source": "/home/hugh/.gradle/caches/transforms-2/files-2.1/547445c782ab54e6765a554f4fdfde6f/play-services-base-9.8.0/res/drawable-xxhdpi-v4/common_google_signin_btn_text_dark_pressed.9.png"
+    },
+    {
+        "merged": "/home/hugh/Compil/AndroidStudioProjects/improSoundSystem/app/build/intermediates/res/merged/debug/drawable-xxhdpi_ic_menu_refresh.png.flat",
+        "source": "/home/hugh/Compil/AndroidStudioProjects/improSoundSystem/app/build/generated/res/pngs/debug/drawable-xxhdpi/ic_menu_refresh.png"
+    },
+    {
+        "merged": "/home/hugh/Compil/AndroidStudioProjects/improSoundSystem/app/build/intermediates/res/merged/debug/drawable-hdpi-v4_common_google_signin_btn_icon_dark_disabled.9.png.flat",
+        "source": "/home/hugh/.gradle/caches/transforms-2/files-2.1/547445c782ab54e6765a554f4fdfde6f/play-services-base-9.8.0/res/drawable-hdpi-v4/common_google_signin_btn_icon_dark_disabled.9.png"
+    },
+    {
+        "merged": "/home/hugh/Compil/AndroidStudioProjects/improSoundSystem/app/build/intermediates/res/merged/debug/drawable-mdpi-v4_common_google_signin_btn_icon_dark_disabled.9.png.flat",
+        "source": "/home/hugh/.gradle/caches/transforms-2/files-2.1/547445c782ab54e6765a554f4fdfde6f/play-services-base-9.8.0/res/drawable-mdpi-v4/common_google_signin_btn_icon_dark_disabled.9.png"
+    },
+    {
+        "merged": "/home/hugh/Compil/AndroidStudioProjects/improSoundSystem/app/build/intermediates/res/merged/debug/drawable-hdpi-v4_common_google_signin_btn_text_dark_normal.9.png.flat",
+        "source": "/home/hugh/.gradle/caches/transforms-2/files-2.1/547445c782ab54e6765a554f4fdfde6f/play-services-base-9.8.0/res/drawable-hdpi-v4/common_google_signin_btn_text_dark_normal.9.png"
+    },
+    {
+        "merged": "/home/hugh/Compil/AndroidStudioProjects/improSoundSystem/app/build/intermediates/res/merged/debug/drawable-mdpi-v4_common_google_signin_btn_icon_dark_pressed.9.png.flat",
+        "source": "/home/hugh/.gradle/caches/transforms-2/files-2.1/547445c782ab54e6765a554f4fdfde6f/play-services-base-9.8.0/res/drawable-mdpi-v4/common_google_signin_btn_icon_dark_pressed.9.png"
+    },
+    {
+        "merged": "/home/hugh/Compil/AndroidStudioProjects/improSoundSystem/app/build/intermediates/res/merged/debug/drawable-xxhdpi-v4_common_google_signin_btn_icon_light_normal.9.png.flat",
+        "source": "/home/hugh/.gradle/caches/transforms-2/files-2.1/547445c782ab54e6765a554f4fdfde6f/play-services-base-9.8.0/res/drawable-xxhdpi-v4/common_google_signin_btn_icon_light_normal.9.png"
+    },
+    {
+        "merged": "/home/hugh/Compil/AndroidStudioProjects/improSoundSystem/app/build/intermediates/res/merged/debug/drawable-hdpi-v4_common_google_signin_btn_text_dark_disabled.9.png.flat",
+        "source": "/home/hugh/.gradle/caches/transforms-2/files-2.1/547445c782ab54e6765a554f4fdfde6f/play-services-base-9.8.0/res/drawable-hdpi-v4/common_google_signin_btn_text_dark_disabled.9.png"
+    },
+    {
+        "merged": "/home/hugh/Compil/AndroidStudioProjects/improSoundSystem/app/build/intermediates/res/merged/debug/menu_main.xml.flat",
+        "source": "/home/hugh/Compil/AndroidStudioProjects/improSoundSystem/app/src/main/res/menu/main.xml"
+    },
+    {
+        "merged": "/home/hugh/Compil/AndroidStudioProjects/improSoundSystem/app/build/intermediates/res/merged/debug/drawable-xxhdpi-v4_common_google_signin_btn_text_light_disabled.9.png.flat",
+        "source": "/home/hugh/.gradle/caches/transforms-2/files-2.1/547445c782ab54e6765a554f4fdfde6f/play-services-base-9.8.0/res/drawable-xxhdpi-v4/common_google_signin_btn_text_light_disabled.9.png"
+    },
+    {
+        "merged": "/home/hugh/Compil/AndroidStudioProjects/improSoundSystem/app/build/intermediates/res/merged/debug/drawable-xxhdpi_ic_action_hide_volume.png.flat",
+        "source": "/home/hugh/Compil/AndroidStudioProjects/improSoundSystem/app/src/main/res/drawable-xxhdpi/ic_action_hide_volume.png"
+    },
+    {
+        "merged": "/home/hugh/Compil/AndroidStudioProjects/improSoundSystem/app/build/intermediates/res/merged/debug/drawable-xxxhdpi_ic_action_history.png.flat",
+        "source": "/home/hugh/Compil/AndroidStudioProjects/improSoundSystem/app/src/main/res/drawable-xxxhdpi/ic_action_history.png"
+    },
+    {
+        "merged": "/home/hugh/Compil/AndroidStudioProjects/improSoundSystem/app/build/intermediates/res/merged/debug/drawable_common_google_signin_btn_text_light_focused.xml.flat",
+        "source": "/home/hugh/.gradle/caches/transforms-2/files-2.1/547445c782ab54e6765a554f4fdfde6f/play-services-base-9.8.0/res/drawable/common_google_signin_btn_text_light_focused.xml"
+    },
+    {
+        "merged": "/home/hugh/Compil/AndroidStudioProjects/improSoundSystem/app/build/intermediates/res/merged/debug/drawable-mdpi-v4_common_google_signin_btn_icon_light_pressed.9.png.flat",
+        "source": "/home/hugh/.gradle/caches/transforms-2/files-2.1/547445c782ab54e6765a554f4fdfde6f/play-services-base-9.8.0/res/drawable-mdpi-v4/common_google_signin_btn_icon_light_pressed.9.png"
+    },
+    {
+        "merged": "/home/hugh/Compil/AndroidStudioProjects/improSoundSystem/app/build/intermediates/res/merged/debug/drawable-hdpi-v4_common_google_signin_btn_text_dark_pressed.9.png.flat",
+        "source": "/home/hugh/.gradle/caches/transforms-2/files-2.1/547445c782ab54e6765a554f4fdfde6f/play-services-base-9.8.0/res/drawable-hdpi-v4/common_google_signin_btn_text_dark_pressed.9.png"
+    },
+    {
+        "merged": "/home/hugh/Compil/AndroidStudioProjects/improSoundSystem/app/build/intermediates/res/merged/debug/drawable_common_google_signin_btn_icon_dark.xml.flat",
+        "source": "/home/hugh/.gradle/caches/transforms-2/files-2.1/547445c782ab54e6765a554f4fdfde6f/play-services-base-9.8.0/res/drawable/common_google_signin_btn_icon_dark.xml"
+    },
+    {
+        "merged": "/home/hugh/Compil/AndroidStudioProjects/improSoundSystem/app/build/intermediates/res/merged/debug/drawable-ldpi_folder_icon_light.png.flat",
+        "source": "/home/hugh/Compil/AndroidStudioProjects/improSoundSystem/app/src/main/res/drawable-ldpi/folder_icon_light.png"
+    },
+    {
+        "merged": "/home/hugh/Compil/AndroidStudioProjects/improSoundSystem/app/build/intermediates/res/merged/debug/drawable-xxhdpi_ic_action_show_volume.png.flat",
+        "source": "/home/hugh/Compil/AndroidStudioProjects/improSoundSystem/app/src/main/res/drawable-xxhdpi/ic_action_show_volume.png"
+    },
+    {
+        "merged": "/home/hugh/Compil/AndroidStudioProjects/improSoundSystem/app/build/intermediates/res/merged/debug/drawable-xhdpi-v4_common_google_signin_btn_icon_light_disabled.9.png.flat",
+        "source": "/home/hugh/.gradle/caches/transforms-2/files-2.1/547445c782ab54e6765a554f4fdfde6f/play-services-base-9.8.0/res/drawable-xhdpi-v4/common_google_signin_btn_icon_light_disabled.9.png"
+    },
+    {
+        "merged": "/home/hugh/Compil/AndroidStudioProjects/improSoundSystem/app/build/intermediates/res/merged/debug/drawable-hdpi-v4_common_google_signin_btn_text_light_normal.9.png.flat",
+        "source": "/home/hugh/.gradle/caches/transforms-2/files-2.1/547445c782ab54e6765a554f4fdfde6f/play-services-base-9.8.0/res/drawable-hdpi-v4/common_google_signin_btn_text_light_normal.9.png"
+    },
+    {
+        "merged": "/home/hugh/Compil/AndroidStudioProjects/improSoundSystem/app/build/intermediates/res/merged/debug/drawable-mdpi-v4_common_google_signin_btn_text_light_normal.9.png.flat",
+        "source": "/home/hugh/.gradle/caches/transforms-2/files-2.1/547445c782ab54e6765a554f4fdfde6f/play-services-base-9.8.0/res/drawable-mdpi-v4/common_google_signin_btn_text_light_normal.9.png"
+    },
+    {
+        "merged": "/home/hugh/Compil/AndroidStudioProjects/improSoundSystem/app/build/intermediates/res/merged/debug/drawable-xxhdpi-v4_common_google_signin_btn_icon_light_pressed.9.png.flat",
+        "source": "/home/hugh/.gradle/caches/transforms-2/files-2.1/547445c782ab54e6765a554f4fdfde6f/play-services-base-9.8.0/res/drawable-xxhdpi-v4/common_google_signin_btn_icon_light_pressed.9.png"
+    },
+    {
+        "merged": "/home/hugh/Compil/AndroidStudioProjects/improSoundSystem/app/build/intermediates/res/merged/debug/drawable-hdpi-v4_common_full_open_on_phone.png.flat",
+        "source": "/home/hugh/.gradle/caches/transforms-2/files-2.1/547445c782ab54e6765a554f4fdfde6f/play-services-base-9.8.0/res/drawable-hdpi-v4/common_full_open_on_phone.png"
+    },
+    {
+        "merged": "/home/hugh/Compil/AndroidStudioProjects/improSoundSystem/app/build/intermediates/res/merged/debug/layout_sound_clip_row.xml.flat",
+        "source": "/home/hugh/Compil/AndroidStudioProjects/improSoundSystem/app/src/main/res/layout/sound_clip_row.xml"
+    },
+    {
+        "merged": "/home/hugh/Compil/AndroidStudioProjects/improSoundSystem/app/build/intermediates/res/merged/debug/drawable-xhdpi-v4_common_google_signin_btn_icon_dark_disabled.9.png.flat",
+        "source": "/home/hugh/.gradle/caches/transforms-2/files-2.1/547445c782ab54e6765a554f4fdfde6f/play-services-base-9.8.0/res/drawable-xhdpi-v4/common_google_signin_btn_icon_dark_disabled.9.png"
+    },
+    {
+        "merged": "/home/hugh/Compil/AndroidStudioProjects/improSoundSystem/app/build/intermediates/res/merged/debug/layout_ua_com_vassiliev_filebrowser_layout.xml.flat",
+        "source": "/home/hugh/Compil/AndroidStudioProjects/improSoundSystem/app/src/main/res/layout/ua_com_vassiliev_filebrowser_layout.xml"
+    },
+    {
+        "merged": "/home/hugh/Compil/AndroidStudioProjects/improSoundSystem/app/build/intermediates/res/merged/debug/drawable-mdpi_ic_action_show_volume.png.flat",
+        "source": "/home/hugh/Compil/AndroidStudioProjects/improSoundSystem/app/src/main/res/drawable-mdpi/ic_action_show_volume.png"
+    },
+    {
+        "merged": "/home/hugh/Compil/AndroidStudioProjects/improSoundSystem/app/build/intermediates/res/merged/debug/drawable-xxhdpi_ic_action_stop.png.flat",
+        "source": "/home/hugh/Compil/AndroidStudioProjects/improSoundSystem/app/src/main/res/drawable-xxhdpi/ic_action_stop.png"
+    },
+    {
+        "merged": "/home/hugh/Compil/AndroidStudioProjects/improSoundSystem/app/build/intermediates/res/merged/debug/drawable-xxxhdpi_ic_menu_refresh.png.flat",
+        "source": "/home/hugh/Compil/AndroidStudioProjects/improSoundSystem/app/build/generated/res/pngs/debug/drawable-xxxhdpi/ic_menu_refresh.png"
+    },
+    {
+        "merged": "/home/hugh/Compil/AndroidStudioProjects/improSoundSystem/app/build/intermediates/res/merged/debug/drawable-anydpi-v21_ic_menu_refresh.xml.flat",
+        "source": "/home/hugh/Compil/AndroidStudioProjects/improSoundSystem/app/build/generated/res/pngs/debug/drawable-anydpi-v21/ic_menu_refresh.xml"
+    },
+    {
+        "merged": "/home/hugh/Compil/AndroidStudioProjects/improSoundSystem/app/build/intermediates/res/merged/debug/drawable_play_background.xml.flat",
+        "source": "/home/hugh/Compil/AndroidStudioProjects/improSoundSystem/app/src/main/res/drawable/play_background.xml"
+    },
+    {
+        "merged": "/home/hugh/Compil/AndroidStudioProjects/improSoundSystem/app/build/intermediates/res/merged/debug/drawable-xhdpi-v4_common_google_signin_btn_icon_light_normal.9.png.flat",
+        "source": "/home/hugh/.gradle/caches/transforms-2/files-2.1/547445c782ab54e6765a554f4fdfde6f/play-services-base-9.8.0/res/drawable-xhdpi-v4/common_google_signin_btn_icon_light_normal.9.png"
+    },
+    {
+        "merged": "/home/hugh/Compil/AndroidStudioProjects/improSoundSystem/app/build/intermediates/res/merged/debug/drawable-xhdpi-v4_common_google_signin_btn_icon_dark_normal.9.png.flat",
+        "source": "/home/hugh/.gradle/caches/transforms-2/files-2.1/547445c782ab54e6765a554f4fdfde6f/play-services-base-9.8.0/res/drawable-xhdpi-v4/common_google_signin_btn_icon_dark_normal.9.png"
+    },
+    {
+        "merged": "/home/hugh/Compil/AndroidStudioProjects/improSoundSystem/app/build/intermediates/res/merged/debug/drawable-mdpi_ic_launcher.png.flat",
+        "source": "/home/hugh/Compil/AndroidStudioProjects/improSoundSystem/app/src/main/res/drawable-mdpi/ic_launcher.png"
+    },
+    {
+        "merged": "/home/hugh/Compil/AndroidStudioProjects/improSoundSystem/app/build/intermediates/res/merged/debug/drawable-xhdpi-v4_common_google_signin_btn_text_dark_normal.9.png.flat",
+        "source": "/home/hugh/.gradle/caches/transforms-2/files-2.1/547445c782ab54e6765a554f4fdfde6f/play-services-base-9.8.0/res/drawable-xhdpi-v4/common_google_signin_btn_text_dark_normal.9.png"
+    },
+    {
+        "merged": "/home/hugh/Compil/AndroidStudioProjects/improSoundSystem/app/build/intermediates/res/merged/debug/drawable-xxxhdpi_ic_launcher.png.flat",
+        "source": "/home/hugh/Compil/AndroidStudioProjects/improSoundSystem/app/src/main/res/drawable-xxxhdpi/ic_launcher.png"
+    },
+    {
+        "merged": "/home/hugh/Compil/AndroidStudioProjects/improSoundSystem/app/build/intermediates/res/merged/debug/drawable-hdpi_ic_action_history.png.flat",
+        "source": "/home/hugh/Compil/AndroidStudioProjects/improSoundSystem/app/src/main/res/drawable-hdpi/ic_action_history.png"
+    },
+    {
+        "merged": "/home/hugh/Compil/AndroidStudioProjects/improSoundSystem/app/build/intermediates/res/merged/debug/drawable_common_google_signin_btn_text_dark.xml.flat",
+        "source": "/home/hugh/.gradle/caches/transforms-2/files-2.1/547445c782ab54e6765a554f4fdfde6f/play-services-base-9.8.0/res/drawable/common_google_signin_btn_text_dark.xml"
+    },
+    {
+        "merged": "/home/hugh/Compil/AndroidStudioProjects/improSoundSystem/app/build/intermediates/res/merged/debug/drawable-xhdpi-v4_common_google_signin_btn_icon_dark_pressed.9.png.flat",
+        "source": "/home/hugh/.gradle/caches/transforms-2/files-2.1/547445c782ab54e6765a554f4fdfde6f/play-services-base-9.8.0/res/drawable-xhdpi-v4/common_google_signin_btn_icon_dark_pressed.9.png"
+    },
+    {
+        "merged": "/home/hugh/Compil/AndroidStudioProjects/improSoundSystem/app/build/intermediates/res/merged/debug/drawable-hdpi-v4_common_google_signin_btn_text_light_disabled.9.png.flat",
+        "source": "/home/hugh/.gradle/caches/transforms-2/files-2.1/547445c782ab54e6765a554f4fdfde6f/play-services-base-9.8.0/res/drawable-hdpi-v4/common_google_signin_btn_text_light_disabled.9.png"
+    },
+    {
+        "merged": "/home/hugh/Compil/AndroidStudioProjects/improSoundSystem/app/build/intermediates/res/merged/debug/drawable-mdpi_ic_action_hide_volume.png.flat",
+        "source": "/home/hugh/Compil/AndroidStudioProjects/improSoundSystem/app/src/main/res/drawable-mdpi/ic_action_hide_volume.png"
+    },
+    {
+        "merged": "/home/hugh/Compil/AndroidStudioProjects/improSoundSystem/app/build/intermediates/res/merged/debug/drawable-mdpi-v4_common_google_signin_btn_text_dark_pressed.9.png.flat",
+        "source": "/home/hugh/.gradle/caches/transforms-2/files-2.1/547445c782ab54e6765a554f4fdfde6f/play-services-base-9.8.0/res/drawable-mdpi-v4/common_google_signin_btn_text_dark_pressed.9.png"
+    },
+    {
+        "merged": "/home/hugh/Compil/AndroidStudioProjects/improSoundSystem/app/build/intermediates/res/merged/debug/drawable-xhdpi-v4_common_full_open_on_phone.png.flat",
+        "source": "/home/hugh/.gradle/caches/transforms-2/files-2.1/547445c782ab54e6765a554f4fdfde6f/play-services-base-9.8.0/res/drawable-xhdpi-v4/common_full_open_on_phone.png"
+    },
+    {
+        "merged": "/home/hugh/Compil/AndroidStudioProjects/improSoundSystem/app/build/intermediates/res/merged/debug/drawable-ldpi_dir_up.png.flat",
+        "source": "/home/hugh/Compil/AndroidStudioProjects/improSoundSystem/app/src/main/res/drawable-ldpi/dir_up.png"
+    },
+    {
+        "merged": "/home/hugh/Compil/AndroidStudioProjects/improSoundSystem/app/build/intermediates/res/merged/debug/drawable-mdpi_ic_menu_refresh.png.flat",
+        "source": "/home/hugh/Compil/AndroidStudioProjects/improSoundSystem/app/build/generated/res/pngs/debug/drawable-mdpi/ic_menu_refresh.png"
+    },
+    {
+        "merged": "/home/hugh/Compil/AndroidStudioProjects/improSoundSystem/app/build/intermediates/res/merged/debug/drawable-xhdpi_ic_menu_refresh.png.flat",
+        "source": "/home/hugh/Compil/AndroidStudioProjects/improSoundSystem/app/build/generated/res/pngs/debug/drawable-xhdpi/ic_menu_refresh.png"
+    },
+    {
+        "merged": "/home/hugh/Compil/AndroidStudioProjects/improSoundSystem/app/build/intermediates/res/merged/debug/drawable-ldpi_folder_icon.png.flat",
+        "source": "/home/hugh/Compil/AndroidStudioProjects/improSoundSystem/app/src/main/res/drawable-ldpi/folder_icon.png"
+    },
+    {
+        "merged": "/home/hugh/Compil/AndroidStudioProjects/improSoundSystem/app/build/intermediates/res/merged/debug/color_common_google_signin_btn_text_dark.xml.flat",
+        "source": "/home/hugh/.gradle/caches/transforms-2/files-2.1/547445c782ab54e6765a554f4fdfde6f/play-services-base-9.8.0/res/color/common_google_signin_btn_text_dark.xml"
+    },
+    {
+        "merged": "/home/hugh/Compil/AndroidStudioProjects/improSoundSystem/app/build/intermediates/res/merged/debug/layout_activity_main.xml.flat",
+        "source": "/home/hugh/Compil/AndroidStudioProjects/improSoundSystem/app/src/main/res/layout/activity_main.xml"
+    },
+    {
+        "merged": "/home/hugh/Compil/AndroidStudioProjects/improSoundSystem/app/build/intermediates/res/merged/debug/drawable-xhdpi_ic_action_show_volume.png.flat",
+        "source": "/home/hugh/Compil/AndroidStudioProjects/improSoundSystem/app/src/main/res/drawable-xhdpi/ic_action_show_volume.png"
+    },
+    {
+        "merged": "/home/hugh/Compil/AndroidStudioProjects/improSoundSystem/app/build/intermediates/res/merged/debug/drawable-mdpi-v4_common_google_signin_btn_icon_light_disabled.9.png.flat",
+        "source": "/home/hugh/.gradle/caches/transforms-2/files-2.1/547445c782ab54e6765a554f4fdfde6f/play-services-base-9.8.0/res/drawable-mdpi-v4/common_google_signin_btn_icon_light_disabled.9.png"
+    },
+    {
+        "merged": "/home/hugh/Compil/AndroidStudioProjects/improSoundSystem/app/build/intermediates/res/merged/debug/drawable-hdpi-v4_common_google_signin_btn_icon_light_disabled.9.png.flat",
+        "source": "/home/hugh/.gradle/caches/transforms-2/files-2.1/547445c782ab54e6765a554f4fdfde6f/play-services-base-9.8.0/res/drawable-hdpi-v4/common_google_signin_btn_icon_light_disabled.9.png"
+    },
+    {
+        "merged": "/home/hugh/Compil/AndroidStudioProjects/improSoundSystem/app/build/intermediates/res/merged/debug/drawable-hdpi-v4_common_google_signin_btn_icon_dark_pressed.9.png.flat",
+        "source": "/home/hugh/.gradle/caches/transforms-2/files-2.1/547445c782ab54e6765a554f4fdfde6f/play-services-base-9.8.0/res/drawable-hdpi-v4/common_google_signin_btn_icon_dark_pressed.9.png"
+    },
+    {
+        "merged": "/home/hugh/Compil/AndroidStudioProjects/improSoundSystem/app/build/intermediates/res/merged/debug/drawable-xxhdpi-v4_common_google_signin_btn_icon_dark_disabled.9.png.flat",
+        "source": "/home/hugh/.gradle/caches/transforms-2/files-2.1/547445c782ab54e6765a554f4fdfde6f/play-services-base-9.8.0/res/drawable-xxhdpi-v4/common_google_signin_btn_icon_dark_disabled.9.png"
+    },
+    {
+        "merged": "/home/hugh/Compil/AndroidStudioProjects/improSoundSystem/app/build/intermediates/res/merged/debug/drawable-hdpi_ic_action_hide_volume.png.flat",
+        "source": "/home/hugh/Compil/AndroidStudioProjects/improSoundSystem/app/src/main/res/drawable-hdpi/ic_action_hide_volume.png"
+    },
+    {
+        "merged": "/home/hugh/Compil/AndroidStudioProjects/improSoundSystem/app/build/intermediates/res/merged/debug/drawable-xxxhdpi_ic_action_hide_volume.png.flat",
+        "source": "/home/hugh/Compil/AndroidStudioProjects/improSoundSystem/app/src/main/res/drawable-xxxhdpi/ic_action_hide_volume.png"
+    },
+    {
+        "merged": "/home/hugh/Compil/AndroidStudioProjects/improSoundSystem/app/build/intermediates/res/merged/debug/drawable-xxhdpi_ic_action_history.png.flat",
+        "source": "/home/hugh/Compil/AndroidStudioProjects/improSoundSystem/app/src/main/res/drawable-xxhdpi/ic_action_history.png"
+    },
+    {
+        "merged": "/home/hugh/Compil/AndroidStudioProjects/improSoundSystem/app/build/intermediates/res/merged/debug/drawable-xxhdpi-v4_common_google_signin_btn_text_dark_disabled.9.png.flat",
+        "source": "/home/hugh/.gradle/caches/transforms-2/files-2.1/547445c782ab54e6765a554f4fdfde6f/play-services-base-9.8.0/res/drawable-xxhdpi-v4/common_google_signin_btn_text_dark_disabled.9.png"
+    },
+    {
+        "merged": "/home/hugh/Compil/AndroidStudioProjects/improSoundSystem/app/build/intermediates/res/merged/debug/drawable_common_google_signin_btn_text_light.xml.flat",
+        "source": "/home/hugh/.gradle/caches/transforms-2/files-2.1/547445c782ab54e6765a554f4fdfde6f/play-services-base-9.8.0/res/drawable/common_google_signin_btn_text_light.xml"
+    },
+    {
+        "merged": "/home/hugh/Compil/AndroidStudioProjects/improSoundSystem/app/build/intermediates/res/merged/debug/color_common_google_signin_btn_text_light.xml.flat",
+        "source": "/home/hugh/.gradle/caches/transforms-2/files-2.1/547445c782ab54e6765a554f4fdfde6f/play-services-base-9.8.0/res/color/common_google_signin_btn_text_light.xml"
+    },
+    {
+        "merged": "/home/hugh/Compil/AndroidStudioProjects/improSoundSystem/app/build/intermediates/res/merged/debug/drawable-mdpi_ic_action_stop.png.flat",
+        "source": "/home/hugh/Compil/AndroidStudioProjects/improSoundSystem/app/src/main/res/drawable-mdpi/ic_action_stop.png"
+    },
+    {
+        "merged": "/home/hugh/Compil/AndroidStudioProjects/improSoundSystem/app/build/intermediates/res/merged/debug/drawable-mdpi-v4_common_google_signin_btn_icon_light_normal.9.png.flat",
+        "source": "/home/hugh/.gradle/caches/transforms-2/files-2.1/547445c782ab54e6765a554f4fdfde6f/play-services-base-9.8.0/res/drawable-mdpi-v4/common_google_signin_btn_icon_light_normal.9.png"
+    },
+    {
+        "merged": "/home/hugh/Compil/AndroidStudioProjects/improSoundSystem/app/build/intermediates/res/merged/debug/drawable-xhdpi_ic_action_hide_volume.png.flat",
+        "source": "/home/hugh/Compil/AndroidStudioProjects/improSoundSystem/app/src/main/res/drawable-xhdpi/ic_action_hide_volume.png"
+    },
+    {
+        "merged": "/home/hugh/Compil/AndroidStudioProjects/improSoundSystem/app/build/intermediates/res/merged/debug/drawable-hdpi_ic_launcher.png.flat",
+        "source": "/home/hugh/Compil/AndroidStudioProjects/improSoundSystem/app/src/main/res/drawable-hdpi/ic_launcher.png"
+    },
+    {
+        "merged": "/home/hugh/Compil/AndroidStudioProjects/improSoundSystem/app/build/intermediates/res/merged/debug/drawable-xxxhdpi_ic_action_show_volume.png.flat",
+        "source": "/home/hugh/Compil/AndroidStudioProjects/improSoundSystem/app/src/main/res/drawable-xxxhdpi/ic_action_show_volume.png"
+    },
+    {
+        "merged": "/home/hugh/Compil/AndroidStudioProjects/improSoundSystem/app/build/intermediates/res/merged/debug/drawable-hdpi-v4_common_google_signin_btn_text_light_pressed.9.png.flat",
+        "source": "/home/hugh/.gradle/caches/transforms-2/files-2.1/547445c782ab54e6765a554f4fdfde6f/play-services-base-9.8.0/res/drawable-hdpi-v4/common_google_signin_btn_text_light_pressed.9.png"
+    },
+    {
+        "merged": "/home/hugh/Compil/AndroidStudioProjects/improSoundSystem/app/build/intermediates/res/merged/debug/drawable-hdpi-v4_common_google_signin_btn_icon_light_pressed.9.png.flat",
+        "source": "/home/hugh/.gradle/caches/transforms-2/files-2.1/547445c782ab54e6765a554f4fdfde6f/play-services-base-9.8.0/res/drawable-hdpi-v4/common_google_signin_btn_icon_light_pressed.9.png"
+    },
+    {
+        "merged": "/home/hugh/Compil/AndroidStudioProjects/improSoundSystem/app/build/intermediates/res/merged/debug/drawable-hdpi_ic_action_stop.png.flat",
+        "source": "/home/hugh/Compil/AndroidStudioProjects/improSoundSystem/app/src/main/res/drawable-hdpi/ic_action_stop.png"
+    },
+    {
+        "merged": "/home/hugh/Compil/AndroidStudioProjects/improSoundSystem/app/build/intermediates/res/merged/debug/drawable-xhdpi-v4_common_google_signin_btn_text_dark_pressed.9.png.flat",
+        "source": "/home/hugh/.gradle/caches/transforms-2/files-2.1/547445c782ab54e6765a554f4fdfde6f/play-services-base-9.8.0/res/drawable-xhdpi-v4/common_google_signin_btn_text_dark_pressed.9.png"
+    },
+    {
+        "merged": "/home/hugh/Compil/AndroidStudioProjects/improSoundSystem/app/build/intermediates/res/merged/debug/drawable-xxhdpi_ic_launcher.png.flat",
+        "source": "/home/hugh/Compil/AndroidStudioProjects/improSoundSystem/app/src/main/res/drawable-xxhdpi/ic_launcher.png"
+    },
+    {
+        "merged": "/home/hugh/Compil/AndroidStudioProjects/improSoundSystem/app/build/intermediates/res/merged/debug/drawable-mdpi_ic_action_history.png.flat",
+        "source": "/home/hugh/Compil/AndroidStudioProjects/improSoundSystem/app/src/main/res/drawable-mdpi/ic_action_history.png"
+    }
+]
